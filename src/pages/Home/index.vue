@@ -156,7 +156,7 @@
                             <div class="item">
                                 <div class="testimonials-thumb d-flex">
                                     <div class="testimonials-image">
-                                        <img src="images/testimonials/testimonial-image03.jpg" class="img-fluid" alt="testimonials image">
+                                        <img src="../../assets/images/testimonials/testimonial-image03.jpg" class="img-fluid" alt="testimonials image">
                                     </div>
 
                                     <div class="testimonials-info">
@@ -171,7 +171,7 @@
                             <div class="item">
                                 <div class="testimonials-thumb d-flex">
                                     <div class="testimonials-image">
-                                        <img src="images/testimonials/testimonial-image04.jpg" class="img-fluid" alt="testimonials image">
+                                        <img src="../../assets/images/testimonials/testimonial-image04.jpg" class="img-fluid" alt="testimonials image">
                                     </div>
 
                                     <div class="testimonials-info">
